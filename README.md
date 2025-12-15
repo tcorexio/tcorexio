@@ -1,16 +1,86 @@
 ## Hi there 👋
+# 👋 Hi, I'm Nguyễn Thành Trọng
 
-<!--
-**Troqcoder-211/Troqcoder-211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ whoami
+Nguyen Thanh Trong
 
-Here are some ideas to get you started:
+$ stack --overview
+Java Backend Developer | Frontend Enthusiast
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+---
+
+## 🧠 About Me
+
+* ☕ **Java Backend Developer** with solid foundation
+* ⚛️ Experience with **ReactJS & Next.js** for modern frontend
+* 🧩 Enjoy building **clean APIs, scalable systems & intuitive UI**
+* 🐧 Linux user, love terminal & developer tooling
+* 🎯 Target: **Backend / Fullstack Developer (Java-centric)**
+
+---
+
+## ⚙️ Tech Stack
+
+```text
+Backend     : Java (Spring Boot)
+Frontend    : React | Next.js | MUI | HTML | CSS
+Database    : MySQL | SQL Server | PostgreSQL
+Tools       : Git | Docker | Linux | VS Code | IntelliJ IDEA
+```
+
+---
+
+## 🖥️ Frontend & UI
+
+* ⚛️ React component-based architecture
+* 🎨 Material UI for consistent design
+* 🚀 Next.js for SEO & performance
+
+---
+
+## 🔧 Backend & Database
+
+* RESTful APIs with **Spring Boot**
+* Authentication & role-based access
+* Database design & query optimization
+* Experience with **MySQL, SQL Server, PostgreSQL**
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Troqcoder-211\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Troqcoder-211\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🧪 Currently Improving
+
+* Clean Architecture & Design Patterns
+* Dockerized applications
+* System thinking & performance
+
+---
+
+## 🧩 Developer Mindset
+
+```bash
+"Code is not just written.
+It is designed, reviewed, and evolved."
+```
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [nttroq2101@gmail.com](mailto:nttroq2101@gmail.com)
+* 🌐 GitHub: [https://github.com/Troqcoder-211](https://github.com/Troqcoder-211)
+
+---
+
+⭐ Thanks for visiting my profile — feel free to explore my repositories!
