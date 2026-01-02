@@ -53,9 +53,9 @@ Tools       : Git | Docker | Linux | VS Code | IntelliJ IDEA
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tcorexio\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tcorexio/&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tcorexio\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tcorexio/&layout=compact\&theme=tokyonight)
 
 ---
 
