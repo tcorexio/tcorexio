@@ -61,7 +61,7 @@ Tools       : Git | Docker | Linux | VS Code | IntelliJ IDEA
 
 ## 🧪 Currently Improving
 
-* Clean Architecture & Design Patterns & Design System
+* Clean Architecture & Design Patterns & Design principles
 * Dockerized applications
 * System thinking & performance
 
