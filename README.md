@@ -58,7 +58,7 @@ Tools       : Git | Docker | Linux | VS Code | IntelliJ IDEA
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tcorexio&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tcorexio&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tcorexio&theme=dark" alt="GitHub Streak" /></a>
 
 ---
 
