@@ -81,7 +81,7 @@ It is designed, reviewed, and evolved."
 ## 📫 Contact
 
 * 📧 Email: [nttrong2101.work@gmail.com](mailto:nttrong2101.work@gmail.com)
-* 🌐 GitHub: [https://github.com/tcorexio](https://github.com/tcorexio)
+* 🌐 Portfolio : [tcorexio.github.io/myPortfolio](https://tcorexio.github.io/myPortfolio)
 
 ---
 
